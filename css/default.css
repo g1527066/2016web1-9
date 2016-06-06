@@ -5,7 +5,7 @@
 }
 
 body{
-  background-image:url(../img/),url();
+  background-image:url(../main.png),url(../neko.JPG);
   background-repeat:no-repeat,no-repeat;
   background-color:lightgrey;
   margin:5px;
