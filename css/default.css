@@ -5,6 +5,8 @@
 }
 
 body{
+  background-image:url(../img/),url();
+  background-repeat:no-repeat,no-repeat;
   background-color:lightgrey;
   margin:5px;
 }
